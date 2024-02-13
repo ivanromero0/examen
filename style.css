@@ -1,0 +1,60 @@
+
+
+nav {
+    text-align: center;
+    background-color: yellow;
+}
+header {
+    background-color: lightsalmon;
+}
+header {
+    text-align: center;
+}
+
+a.bitcoin {
+position: relative;
+left: 70%;
+}
+
+img {
+    width: 100px;
+}
+section.blanco {
+    background-color: white;
+}
+a.ethereum{
+    position: relative;
+    left: 50%;
+}
+a.lite{
+    position: relative;
+    left: 10%;
+}
+footer {
+    background-color: yellow;
+    text-align: center;
+}
+p.rojo {
+    color: red;
+    display: inline;
+}
+p.valor {
+    display: inline;
+    background-color: yellow;
+    color: green;
+}
+html {
+    background-color: lightsalmon;
+}
+
+input.texto{
+    color: blue;
+
+}
+
+hr.azul{
+    border-color: blue;
+}
+
+
+
